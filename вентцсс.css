@@ -1,0 +1,102 @@
+﻿.red-border{
+
+  margin: 20px 20px 20px 20px;
+
+  width:300px;
+  height:300px;
+  border:1px solid rgba(99, 156, 191, 0.3);
+  /*position:relative;*/
+  transition:1.5s;
+  background:rgba(99, 156, 191, 0.3);
+ 
+}
+.orange-border{
+	
+  width:298px;
+  height:298px;
+  border:1px solid #dff0F8;
+  /*position:absolute;*/
+  border-radius:250px;
+  /*line-height:250px;*/
+  vertical-align:middle;
+  text-align:center;
+  transition:1s;
+  background:#dff0F8;
+
+
+}
+.red-border:hover{
+  transform:rotate(-360deg);
+}
+.red-border:hover .orange-border{
+  transform:rotateY(-180deg);
+}
+img.ty{
+	padding-top: 46px;
+
+	width:70%;
+	text-align:center;
+	vertical-align:middle;
+}
+img.te{
+
+	float:right;
+	width:35%;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.newizo{
+	float:left;
+}
+.rt{
+	float:right;
+	width:65%;
+
+}
+.lt{
+	float:left;
+	width:65%;
+
+}
+.clean{
+    clear: both;
+}
+
+p {
+    text-indent: 50px;
+}
+
+#imag{
+	display:block;
+	width:100%;
+}
+#imag1{
+	display:block;
+	width:80%;
+	text-align:center;
+}
+.imag1{
+	display:block;
+	width:80%;
+	text-align:right;
+}
+.imag2{
+	display:block;
+
+	text-align:center;
+}
+ 
+/*
+.pull-left {
+
+    display: inline-block;
+
+   }
+.pull-left:hover {*/
+    /* Точка поворота в центре верха */
+   /* transform-origin: 50% 0% 0px;*/
+    /* Поворачиваем на 20 градусов против часовой стрелки */
+/*    transform: rotate(-20deg);
+   }
+*/

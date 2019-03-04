@@ -1,0 +1,29 @@
+p{
+    padding-top: 10px;
+}
+
+#izo {
+    padding-top:10px;
+    text-align: center;
+    float:right;
+}
+.right{
+    float:left;
+    width:68%;
+}
+#izo1,#izo2,#izo3{
+    text-align: center;
+}
+.clean{
+    clear: both;
+}
+/*#izo:hover img { 
+	width: 500px; 
+}*/
+#izo1:hover img { 
+	width:1000px; 
+}
+
+#izo2:hover img { 
+	width:1000px; 
+}

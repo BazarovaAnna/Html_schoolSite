@@ -1,0 +1,3 @@
+<div class="thumbnail pull-left">
+<img src="/images/ventilyator.jpg" alt=""/>
+</div>

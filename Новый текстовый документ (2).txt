@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+
+	  	<title>USB лампа</title>
+		<link href="попыткайцсс.css" rel="stylesheet">
+		<link href="вентцсс.css" rel="stylesheet">
+		
+		
+
+	</head>
+ 
+
+
+ 
+<body style="background-image: url(http://th13.st.depositphotos.com/1245520/4805/v/170/depositphotos_48058083-Abstract-seamless-background.jpg);">
+	
+	
+<!--
+<div class="window1">
+<label for="login-field">Ваш логин</label><br>
+
+<input type="text" name="login" id="login-field">
+            <br><br>
+            <label for="password-field">Ваш пароль</label>
+<br>
+<input type="password" name="password" id="password-field">
+            <br><br>
+<input type="submit" value="Войти"></div> 
+-->
+
+ 
+<div id="page"> 
+
+<h1 id="top">Настольная и светодиодная USB лампа для ноутбука</h1>
+ 
+
+<h2>USB лампа - это обычно светодиодная лампа, работающая от USB порта компьютера или ноутбука. </h2><hr>
+
+<a title="Перейти на главную страницу"
+href="Попытка1.html">Вернуться на Главную</a><br>
+
+
+<div class="newizo">
+<div class="red-border">
+  <div class="orange-border">
+      <img src="http://3usb.ru/images/lampa.jpg" class="ty">
+  </div>
+</div>
+</div>
+
+<div class="rt"><p>USB лампа является древнейшим гаджетом, один из самых первых усби гаджетов. Как правило, число светодиодов варьируется от 1 до 15, каждый потребляет по 30мА, большее количество светодиодов уже не позволяет ограничение по току для самого порта, а оно равняется 500mA.</p></div>
+
+
+<div class="clean"></div>
+<p style="font-family: serif; font-size: 28px; color:#00aacc;">Для чего нужна USB лампа</p>
+<p>Как правило обычные лампы - бра, торшеры, светильники, лампочки дневного света потребляют много электроэнергии. С учетом нынешних немаленьких цен на электричество порой задумываешься над экономией.Иногда не требуется яркий свет, достаточно освещенности клавиатуры - для этих целей как раз подойдет USB лампа для клавиатуры.</p> <br>
+<table width="100%">
+ <tr><td width="33%"><img src="http://ntsale.ru/img_products/USB_svetodiodnaya_lampa_dlya_noutbula__2_.jpg" width="100%"></td><td width="33%"><img src="http://ntsale.ru/img_products/USB_svetodiodnaya_lampa_dlya_noutbula__4_.jpg" width="100%"></td><td width="33%"><img src="http://ntsale.ru/img_products/USB_svetodiodnaya_lampa_dlya_noutbula__3_.jpg" width="100%"></td></tr>
+</table>
+ <br>
+<p style="font-family: serif; font-size: 28px; color:#00aacc;">Плюсы</p>
+<ul>
+	<li>USB лампа очень компактна, что является её несомненным плюсом. Если сравнивать этот небольшой аксессуар с настольной лампой, разница очевидна. Если у Вас недостаточно места на рабочем месте, или Вы просто не хотите его занимать, светодиодная USB лампа - подходящее решение.</li>
+	<li>Нет необходимости включать яркий свет в комнате, достаточно небольшого света от Вашей USB лампы - его вполне хватит для удобной работы.</li>
+	<li>Если Вы живёте в комнате не один, то такая лампа – просто незаменимая вещь. Хотите спокойно пользоваться ноутбуком ночью, никому не мешая? Светодиодная USB лампа – лучшее решение.</li>
+	<li>Аксессуар отлично подойдёт для выполнения мелких работ. Лампа имеет гибкую основу, что позволяет ей осветить всё что угодно под любым углом. В этом плане обычной настольной лампе не сравниться с рассматриваемым USB устройством. Применение лампы целесообразно, если Вы ремонтируете электронику, часы, разбираете любые предметы, устанавливаете кнопку на клавиатуре, а также во многих других случаях.</li>
+</ul>
+<p>
+USB светодиодная лампа – простой, но нужный и полезный аксессуар для Вашего ноутбука. Она не займёт много места и пригодится Вам для освещения клавиатуры или рабочего места. USB лампа требует мало энергии, что позволяет использовать её с любым компьютером или ноутбуком.</p>
+<marquee behavior="alternate" direction="left" loop="400" scrollamount="10">
+Сайт Базаровой Анны 11б МБОУ ФМЛ №31</marquee>
+
+<div class="leftbar-wrap"> 
+<a href="#page" class="left-controlbar"> 
+<span class="active-area"> 
+<span class="bar-desc"> ^Наверх^</span> 
+</span> 
+</a> 
+</div> 
+
+<!--<div class="to-top"><a href="#top">Наверх</a></div>-->
+
+
+
+
+</body>
+
+</html>

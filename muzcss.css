@@ -1,0 +1,33 @@
+#izo {
+    
+    float:right;
+	position:absolute;
+
+}
+.right{
+	float:right;
+    display:block;
+    position: relative;
+}
+
+.qwe{
+	margin-left: 55px;
+	
+}
+.ma{
+	margin-left: 10px;
+}
+ul{
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	
+}
+#imag1{
+	display:block;
+	text-align:center;
+}
+.clean{
+    clear: both;
+}
